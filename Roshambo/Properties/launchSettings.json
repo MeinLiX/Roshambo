@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Roshambo": {
+      "commandName": "Project",
+      "commandLineArgs": "bunny cat dog wolf bear"
+    }
+  }
+}
